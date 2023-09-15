@@ -1,5 +1,3 @@
-markdown
-Copy code
 ### Running a Bash Script
 
 1. **Make the Script Executable**: If the script isn't already executable, give it execute permission using the `chmod` command. Replace `script.sh` with the name of your script.
