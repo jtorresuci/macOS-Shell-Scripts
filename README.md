@@ -4,7 +4,7 @@
 
    chmod +x script.sh
 
-Run the Script: Execute the Bash script by typing its name preceded by ./ and pressing Enter. Replace script.sh with the actual name of your Bash script.
+2. **Run the Script**: Execute the Bash script by typing its name preceded by ./ and pressing Enter. Replace script.sh with the actual name of your Bash script.
 
 ./script.sh
 
